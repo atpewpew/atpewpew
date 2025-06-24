@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atpewpew&label=Profile%20views&color=0e75b6&style=flat" alt="atpewpew" /> </p>
 
-- 🔭 I’m currently working on **Personalized Medicine: Redefining Cancer Treatment**
+- 🔭 I’m currently working on **Time Series data with transformers**
 
-- 🌱 I’m currently learning **Attention is all you need**
+- 🌱 I’m currently learning **LLMs**
 
 - 👯 I’m looking to collaborate on **Medical Image Segmentation**
 
