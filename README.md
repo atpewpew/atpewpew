@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
-<h3 align="center">Deeply interested in artificial intelligence and committed to continuous growth.</h3>
+<h3 align="center">committed to continuous growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atpewpew&label=Profile%20views&color=0e75b6&style=flat" alt="atpewpew" /> </p>
 
