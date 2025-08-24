@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **dm me on insta (if u wanna)**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pz5BhtQgfcQEEVsZqLfvkBd5fdFX_7kH/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1a4P7H5fwFbSU43E2MXvwSzuPNt7Gc93f/view?usp=sharing)
 
 - ⚡ Fun fact **I have love-hate relationship with maths**
 
