@@ -1,30 +1,17 @@
-<h1 align="center">Hi , I'm Piyush</h1>
-<h3 align="center">committed to continuous growth.</h3>
+<h1 align="center">Hi, I'm Piyush</h1>
+<h3 align="center">Committed to continuous growth.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atpewpew&label=Profile%20views&color=0e75b6&style=flat" alt="atpewpew" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=atpewpew&label=Profile%20views&color=0e75b6&style=flat" alt="atpewpew" />
+</p>
 
-- 🔭 I’m currently working on **Time Series data with transformers**
-
+- 🔭 I’m currently working on **time series data with transformers**
 - 🌱 I’m currently learning **LLMs**
-
-<!-- - 👯 I’m looking to collaborate on **Medical Image Segmentation**
-
-- 🤝 I’m looking for help with **Skip Gram Model for Word Embeddings** -->
-
-- 👨‍💻 All of my projects are available at [https://github.com/atpewpew](https://github.com/atpewpew)
-
-- 📝 I regularly write articles on [https://medium.com/](https://medium.com/) ps: not really, jk
-
-- 💬 Ask me about **anything (17% chance that I'll know)**
-
-- 📫 How to reach me **dm me on insta (if u wanna)**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pz5BhtQgfcQEEVsZqLfvkBd5fdFX_7kH/view?usp=sharing)
-
-- ⚡ Fun fact **I have love-hate relationship with maths**
-
-- 🤝 I’m always open to collaborating on interesting projects — feel free to reach out to me on <a href="https://www.linkedin.com/in/piyush-kumar-8260b3293/" target="blank">LinkedIn</a>.
-
+- 👨‍💻 My projects are available at [GitHub](https://github.com/atpewpew)
+- 📄 Resume: [View here](https://drive.google.com/file/d/1pz5BhtQgfcQEEVsZqLfvkBd5fdFX_7kH/view?usp=sharing)
+- ⚡ Fun fact: **I have a love-hate relationship with maths**
+- 🤝 Open to collaborating on interesting projects
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/piyush-kumar-8260b3293/)
 
  
 <h3 align="left">Connect with me:</h3>
@@ -45,45 +32,37 @@
 </tr>
 </table>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages</h3>
+<p>
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
-</tr>
+<h3 align="left">Web Development</h3>
+<p>
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
-<tr>
-<td><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/></td>
-</tr>
+<h3 align="left">Machine Learning / Data</h3>
+<p>
+<img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
-<tr>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></td>
-</tr>
-
-<tr>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></td>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></td>
-<td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></td>
-</tr>
-</table>
+<h3 align="left">Tools & DevOps</h3>
+<p>
+<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atpewpew&show_icons=true&locale=en&layout=compact" alt="atpewpew" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atpewpew&show_icons=true&locale=en" alt="atpewpew" /></p>
